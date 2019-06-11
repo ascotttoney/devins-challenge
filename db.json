@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Scott",
+      "last_name": "Toney",
+      "favorite": "Bruce Springsteen"
+    },
+    {
+      "id": 2,
+      "first_name": "Joe",
+      "last_name": "Dirt",
+      "favorite": "Lynyrd Skynyrd"
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Green",
+      "favorite": "Ween",
+      "id": 3
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Green",
+      "favorite": "Mana",
+      "id": 4
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Toney",
+      "favorite": "Metallica",
+      "id": 5
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Toney",
+      "favorite": "Rush",
+      "id": 6
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Green",
+      "favorite": "Metallica",
+      "id": 7
+    },
+    {
+      "first_name": "sdf",
+      "last_name": "Green",
+      "favorite": "Metallica",
+      "id": 8
+    }
+  ]
+}
